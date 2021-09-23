@@ -1,4 +1,4 @@
-package com.example.assignment1;
+package com.sau.advprog.assignment1;
 
 public class test {
     public static void main(String[] args) {
